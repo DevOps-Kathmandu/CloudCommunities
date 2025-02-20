@@ -13,7 +13,7 @@ A curated list of cloud communities in Nepal along with their online presence on
 | **Cloud Native Kathmandu** | CNCF, Kubernetes, Docker, Cloud Native | [Meetup](https://community.cncf.io/cloud-native-kathmandu/), [LinkedIn](https://www.linkedin.com/company/cncf-kathmandu/), Discord |
 | **DevOps Kathmandu** | DevOps, CI/CD, Automation, Infrastructure | [Meetup](https://www.meetup.com/devops-kathmandu/), [Twitter](https://x.com/devopskathmandu), [GitHub](https://github.com/DevOps-Kathmandu), [YouTube](https://www.youtube.com/@devopsktm), Discord |
 | **Google Developer Groups (GDG) Kathmandu** | Google technologies, Cloud, Android, Web | [Meetup](https://gdg.community.dev/gdg-kathmandu/), [LinkedIn](https://www.linkedin.com/company/76466306/), [Twitter](https://www.twitter.com/gdgkathmandu), [Facebook](https://www.facebook.com/gdgkathmandu/), [Instagram](https://www.instagram.com/gdgkathmandu), [Discord](https://discord.gg/QgmVbeUSJE) |
-
+| **Kathmandu HashiCorp User Group** | HashiCorp technologies, Cloud Infrastructure | [Meetup](https://www.meetup.com/kathmandu-hashicorp-user-group/), Discord |
 ## Meetups
 A bot will scrape the meetup pages of the communities daily and create github issue if found one. Feel free to manually update accordingly.
 
